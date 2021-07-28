@@ -1,0 +1,22 @@
+/***** font-Babas *******/
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+.font-babas{
+    font-family: 'Bebas Neue', cursive;
+}
+
+header {
+    background-color: #FFF9F4;
+
+}
+
+.cover-span {
+    color: #FA804C;
+
+}
+
+.price {
+    color: #FA804C;
+
+}
